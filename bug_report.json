@@ -8,7 +8,7 @@
 "Assigned to":"Developer-Alex",
 "Reported By":"Stanislav",
 "Reported On":"2023-03-01",
-"Status":"New"
+"Status":"New",
 "Environment":"mcOS Monterey 12.5",
 "Description":"Application crashes upon clicking the SAVE button while creating a new the user, hence unable to create a new user in the application"
 }
